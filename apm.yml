@@ -1,9 +1,0 @@
-name: shutx-skills
-version: 1.0.0
-description: shutx agents utils by apm
-author: shutx
-dependencies:
-  apm: []
-  mcp: []
-includes: auto
-scripts: {}
